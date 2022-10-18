@@ -538,6 +538,7 @@ nav {
   }
   .menu {
     display: block;
+    cursor: pointer;
   }
   .navbar-left ul {
     display: none;
